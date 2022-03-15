@@ -1,0 +1,28 @@
+/* comentario de bloque en CSS PURO*/
+/*FOOTER*/
+/*Uso Footer BS*/
+/* Form*/
+.form {
+  height: 100vh; }
+  .form form {
+    height: 90%;
+    background-color: black;
+    color: #d8065e;
+    width: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px; }
+    .form form fieldset {
+      font-size: 0.5rem;
+      text-transform: uppercase; }
+
+/*Estilos Generales*/
+html {
+  font-family: "Nunito Sans" , sans-serif; }
+  html body {
+    background-color: #d8065e; }
+
+/*Extend-Mixinds*/
+/*LISTAS*/
